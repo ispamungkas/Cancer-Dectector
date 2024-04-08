@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="select_your_sample">Cancer Checker \nPlease Select Your Image</string>
+    <string name="relevantInformtion">Relevant Article</string>
+    <string name="sample_desc">Sample desc \n ....</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="fab_save">FAB Save</string>
+    <string name="label">Label\t :</string>
+    <string name="score">Score\t :</string>
+    <string name="cancer">Cancer</string>
+    <string name="date">Date</string>
+    <string name="history">History</string>
+</resources>
